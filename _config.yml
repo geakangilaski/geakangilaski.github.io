@@ -22,7 +22,7 @@ subtitle                 : #Poliitik, feminist ja kodanikuõiguste aktivist # si
 name                     : "Gea Kangilaski"
 description: >- # this means to ignore newlines until "baseurl:"
   Eesti poliitik, feminist ja kodanikuõiguste aktivist,
-  alates14. veebruarist 2020 Tartu abilinnapea
+  alates 14. veebruarist 2020 Tartu abilinnapea
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : geakangilaski/geakangilaski.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
